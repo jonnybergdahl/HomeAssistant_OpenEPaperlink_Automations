@@ -4,7 +4,7 @@ This is some of my OpenEPaperLink automations.
 
 ## Roborock S7 robot vacuum
 
-![Status display](images/roborocks7.png)
+![Status display](images/roborock.png)
 
 Displays a thumbs up or down indicating the overall status of the robot, 
 together with the individual status for the following sensors. 
